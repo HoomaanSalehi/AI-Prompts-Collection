@@ -59,7 +59,7 @@ Feld 1 (Frontseite):
 
 Feld 2 (Rückseite):
 - Die Rückseite muss zwei Hauptteile haben, die ausschließlich durch ein einziges HTML-Tag <br> voneinander getrennt sind.
-  1. Teil 1 (Analogie für Anfänger): STRENGE REGEL: Erkläre das Konzept durch eine einfache Analogie auf maximal A1-Niveau aus dem Alltag. Stelle dir vor, du sprichst mit jemandem, der fast kein Deutsch kann. Verwende KEINE abstrakten Begriffe. Der Unterschied in der Einfachheit zu Teil 2 muss extrem deutlich sein. Es geht nicht um eine Definition, sondern um ein Bild. Beispiel: Für "Veröffentlichung" -> "Das ist wie wenn ein Bäcker seinen Kuchen fertig backt und ihn allen Leuten zeigt."
+  1. Teil 1 (Ultra-einfache Analogie): **NEUE STRENGE REGEL:** Deine **einzige** Aufgabe hier ist es, eine **"Das ist wie..."-Analogie** aus dem Alltag zu schaffen. **ABSOLUTES VERBOT:** Du darfst **keine abstrakten Begriffe oder Wörter aus der Standard-Definition (Teil 2) verwenden.** Der Unterschied muss riesig sein. **Denke an ein 5-jähriges Kind, nicht an einen Studenten.** Beispiel: Für "analysieren" -> "Das ist wie, wenn man ein Spielzeug auseinandernimmt, um zu sehen, wie es funktioniert."
   2. Teil 2 (Standard-Erklärung & mehr): Eine präzise Standard-Definition (A2–B2). Unmittelbar danach, füge optional (falls passend) ein relevantes Synonym (Syn.:) und/oder Antonym (Ant.:) hinzu. Schließe diesen Teil IMMER mit einem realistischen Beispielsatz ab.
 
 Feld 3 (Tags):
