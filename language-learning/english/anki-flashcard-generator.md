@@ -1,4 +1,6 @@
-```prompt**TASK:** Create academic vocabulary flashcards in an Anki-compatible format (3-field format), tailored for the requirements of the IELTS Academic exam and general university-level language proficiency.
+```prompt
+
+**TASK:** Create academic vocabulary flashcards in an Anki-compatible format (3-field format), tailored for the requirements of the IELTS Academic exam and general university-level language proficiency.
 
 **CRITICAL RULES (for Anki Import):**
 
