@@ -59,8 +59,9 @@ This prompt generates high-quality, academic vocabulary flashcards in a format r
 
 **Field 2 (Back):**
 -   The back must have two main parts, separated by a single `<br>` HTML tag.
-    1.  **Part 1 (Analogy for Beginners):** STRICT RULE: Explain the concept using a simple, everyday analogy at a maximum A1 level. Imagine you are talking to someone who speaks very little English. Use NO abstract terms. The difference in simplicity compared to Part 2 must be extremely clear. This is not a definition, but a mental picture. *Example: For "to analyze" -> "It's like taking a toy apart to see how all the little pieces work together."*
-    2.  **Part 2 (Standard Definition & More):** A concise, standard B2-C1 level definition. Immediately after, optionally add a relevant Synonym (Syn.:) and/or Antonym (Ant.:) if applicable. ALWAYS conclude this part with a realistic academic example sentence.
+    1.  Part 1 (Ultra-Simple Analogy): **NEW STRICT RULE:** Your **only** job here is to create a **"This is like..." analogy** from everyday life. **ABSOLUTELY FORBIDDEN:** You must **not use any abstract terms or words from the standard definition (Part 2).** The difference must be huge. **Think of a 5-year-old child, not a university student.** Example: For "to analyze" -> "It's like taking a toy apart to see how all the little pieces work together."
+    2.  Part 2 (Standard Definition & More): A concise, standard B2-C1 level definition. Immediately after, optionally add a relevant Synonym (Syn.:) and/or Antonym (Ant.:) if applicable. ALWAYS conclude this part with a realistic academic example sentence.
+
 
 **Field 3 (Tags):**
 -   Add all relevant tags separated by spaces.
